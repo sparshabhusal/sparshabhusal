@@ -18,9 +18,6 @@
 ![Linux](https://img.shields.io/badge/-Linux-333?style=for-the-badge&logo=linux)
 ![Hyprland](https://img.shields.io/badge/-Hyprland-333?style=for-the-badge&logo=arch-linux&logoColor=1793d1)
 ![Python](https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python)
-![Bash](https://img.shields.io/badge/-Bash-333?style=for-the-badge&logo=gnu-bash)
-![Neovim](https://img.shields.io/badge/-Neovim-333?style=for-the-badge&logo=neovim)
-![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=git)
 
 ---
 
