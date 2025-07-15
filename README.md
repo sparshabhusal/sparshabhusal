@@ -36,11 +36,5 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sparshabhusal&show_icons=true&theme=tokyonight" alt="Sparsha's GitHub Stats" />
-</p>
-
----
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=sparshabhusal&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
