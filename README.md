@@ -8,8 +8,6 @@
 ### 💡 About Me
 - 🌍 I'm based in **Nepal**
 - 👀 Currently diving deep into **Linux**, **Hyprland**, and all things **FOSS**
-- 🐍 Learning **Python** one line at a time
-- 🛠️ Playing around with **dotfiles**, **WM configs**, and **cool terminal tools**
 - 🤝 Open to collaborate on exciting GitHub projects!
 
 ---
@@ -17,7 +15,6 @@
 ### 🔧 Tech Stack
 ![Linux](https://img.shields.io/badge/-Linux-333?style=for-the-badge&logo=linux)
 ![Hyprland](https://img.shields.io/badge/-Hyprland-333?style=for-the-badge&logo=arch-linux&logoColor=1793d1)
-![Python](https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python)
 
 ---
 
