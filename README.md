@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JaKooLit/Hyprland-Dots/main/assets/latte.png" width="200" />
+  <img width="300" src="https://github.com/sparshabhusal/sparshabhusal/blob/main/assets/latte.png" width="200" />
 </p>
 
 ---
