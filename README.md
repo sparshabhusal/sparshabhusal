@@ -1,35 +1,21 @@
-<h1 align="center">Hey there! 👋 I'm Sparsha Bhusal</h1>
+
+<h3 align = center>
+<img src = https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=2000&pause=500&color=FFFFFF&center=true&width=450&height=116&lines=Hello+!+I+am+Sparsha>
+</h3>
+
+
 <p align="center">
-  🐧 Linux Enthusiast | 🖥️ Hyprland Tinkerer | 💻 Aspiring Developer
+  <img src="https://raw.githubusercontent.com/JaKooLit/Hyprland-Dots/main/assets/latte.png" width="200" />
 </p>
 
 ---
 
-### 💡 About Me
-- 🌍 I'm based in **Nepal**
-- 👀 Currently diving deep into **Linux**, **Hyprland**, and all things **FOSS**
-- 🤝 Open to collaborate on exciting GitHub projects!
+<img align="center" width="500" src="https://github.com/sparshabhusal/sparshabhusal/assets/sparsha-circle.png">
 
----
-
-### 🔧 Tech Stack
-![Linux](https://img.shields.io/badge/-Linux-333?style=for-the-badge&logo=linux)
-![Hyprland](https://img.shields.io/badge/-Hyprland-333?style=for-the-badge&logo=arch-linux&logoColor=1793d1)
-
----
-
-### 📫 Reach Me
-- 💬 Discord: `sparsha_bhusal`
-- 📮 Email: `sparshabhusal1@gmail.com`
-
----
-
-### ⚡ Fun Facts
-- I use **Arch BTW** 😏
-- I rice my desktop more than I clean my room 🧼
-- I live in the terminal 🖥️
-- Always looking for new dotfile inspiration!
-
+- 🔭 I'm a Linux Enthusiast who likes to play around with Computers and stuff.
+- 🌱 I’m currently learning how to code properly
+- 📫 You can follow me on Youtube. [YouTube](https://www.youtube.com/@sparsha_bhusal) Please subscribe 🤩 Thanks alot 
+- 🏠 Kindly join my discord [Discord](https://discord.com/invite/9JEgZsfhex)
 ---
 
 <p align="center">
