@@ -1,9 +1,5 @@
 
 <h3 align = center>
-<img align = "center" width="290" src="https://github.com/sparshabhusal/sparshabhusal/blob/main/assets/sparsha-circle.png">
-</h3>
-
-<h3 align = center>
 <img src = https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=2000&pause=500&color=FFFFFF&center=true&width=450&height=116&lines=Hello+!+I+am+Sparsha>
 </h3>
 
