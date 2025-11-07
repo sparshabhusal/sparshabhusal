@@ -12,4 +12,4 @@
 
 - 🔭 I'm a Linux Enthusiast who likes to play around with Computers and stuff.
 - 🌱 I’m currently learning how to code properly
-- 📫 You can follow me on [YouTube](https://www.youtube.com/@sparsha_bhusal)  !
+- 📫 You can follow me on [YouTube](https://www.youtube.com/@official_sparsha)  !
