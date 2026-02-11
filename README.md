@@ -1,24 +1,49 @@
 
+<h2 align=center>
+  <img width="250" height="250" alt="pfp" src="https://github.com/user-attachments/assets/398ee77d-b016-4317-92b8-fe632733507c" />
 
+</h2>
 
-<h3 align="center">A self-taught developer from Nepal</h3>
+<h3 align = center>
+<img src = https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=2000&pause=500&color=FFFFFF&center=true&width=450&height=116&lines=Hello+!+I+am+Sparsha>
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sparshabhusal&label=Profile%20views&color=0e75b6&style=flat" alt="sparshabhusal" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sparshabhusal" alt="sparshabhusal" /></a> </p>
-
-- 🔭 I’m currently working on **My Hyprland Rice**
-
-- 🌱 I’m currently learning **Other Programming Languages**
-
-- 📫 How to reach me **sparshabhusal999@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.youtube.com/c/official_sparsha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="official_sparsha" height="30" width="40" /></a>
+<p align="center">
+  <img width="300" src="https://github.com/sparshabhusal/sparshabhusal/blob/main/assets/latte.png" width="200" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+<h3 align="center">🖥️ Web Developer & Linux Enthusiast from Nepal 🇳🇵</h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sparshabhusal&show_icons=true&locale=en&layout=compact" alt="sparshabhusal" /></p>
+&nbsp;&nbsp;
+
+<div align="center">
+  
+ 🖥️ I'm a web developer that likes to make websites.
+&nbsp;
+
+🔭 I'm also Linux Enthusiast making hyprland rices.
+&nbsp;
+
+ 🌱 I’m currently learning other programming languages. 
+
+</div>
+
+&nbsp;&nbsp;
+
+<p align="center">
+<a href="https://www.youtube.com/channel/official_sparsha" target="blank">
+  <img width="48" height="48" alt="youtube" src="https://github.com/user-attachments/assets/d7f54e52-d64b-4e97-811e-9e732eb44b13" />
+</a>
+  &nbsp;&nbsp;
+  
+  <a href="https://discord.com/user/1145008775967805552" target="blank">
+   <img width="48" height="48" alt="discord" src="https://github.com/user-attachments/assets/7e3252d4-7504-42a6-9df6-7699e0ec5017" />
+</a>
+</p>
+
+---
+
+
+
+
+
